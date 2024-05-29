@@ -1,0 +1,1 @@
+Executed on "2024-05-29 22:42:18. Argument: "C:\\Users\\Leonardo\\Desktop\\VBA - Python" 
